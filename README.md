@@ -23,4 +23,4 @@ O GoBarber visa fazer ponte entre cliente e profissionais de beleza como uma age
 
 
 
-Feito com amor por <a href="http://github.com/kelvynsantana">Kelvyn Santana</a>
+Feito com amor por <a href="http://github.com/kelvynsantana">Kelvyn Santana</a> durante o bootcamp da RocketSeat
